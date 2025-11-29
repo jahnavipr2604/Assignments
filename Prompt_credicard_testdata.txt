@@ -1,0 +1,8 @@
+you are an AI Assistant with banking expertise knowledge. 
+Generate test data for testing both functional & non-functional end-end testing for credit card applications 
+for different types of cards like Basic, silver, gold and Platinum with different parameters like Card holder Name, 
+CVV, Credit Score, Status, Expiry Date, Credit Limit Available, Total Credit Limit. 
+[Critical] Provide 5 test data each per card type. 
+[Mandatory] Give values for all parameters requested. 
+Give me the test data in a downloadable excel format.
+[Mandatory] Give atleast 2 negative testdata for each card type
